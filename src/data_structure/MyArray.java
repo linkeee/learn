@@ -4,7 +4,7 @@ public class MyArray {
     private long[] array;
     private int length = 0;
 
-    //    构造，确定数组长度
+    //构造，确定数组长度
     public MyArray(int size) {
         array = new long[size];
     }
